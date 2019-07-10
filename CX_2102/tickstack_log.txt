@@ -1,0 +1,17 @@
+rm: cannot remove '/home/tejeshwini/AIOT/TICKStack/iisctailTelegraf': No such file or directory
+touch: cannot touch '/home/tejeshwini/AIOT/TICKStack/iisctailTelegraf': No such file or directory
+rm: cannot remove '/home/tejeshwini/AIOT/TICKStack/json/czone_file.txt': No such file or directory
+rm: cannot remove '/home/tejeshwini/AIOT/TICKStack/hcltailTelegraf': No such file or directory
+touch: cannot touch '/home/tejeshwini/AIOT/TICKStack/hcltailTelegraf': No such file or directory
+rm: cannot remove '/home/tejeshwini/AIOT/TICKStack/json/pm_file.txt': No such file or directory
+rm: cannot remove '/home/tejeshwini/AIOT/TICKStack/wiprotailTelegraf': No such file or directory
+touch: cannot touch '/home/tejeshwini/AIOT/TICKStack/wiprotailTelegraf': No such file or directory
+rm: cannot remove '/home/tejeshwini/AIOT/TICKStack/json/ozone_file.txt': No such file or directory
+./tickstack_automation.sh: 15: cd: can't cd to /home/tejeshwini/AIOT/TICKStack/Java
+./tickstack_automation.sh: 17: ./tickstack_automation.sh: javac: not found
+./tickstack_automation.sh: 18: ./tickstack_automation.sh: java: not found
+./tickstack_automation.sh: 20: ./tickstack_automation.sh: javac: not found
+./tickstack_automation.sh: 21: ./tickstack_automation.sh: java: not found
+./tickstack_automation.sh: 23: ./tickstack_automation.sh: javac: not found
+./tickstack_automation.sh: 24: ./tickstack_automation.sh: java: not found
+./tickstack_automation.sh: 27: cd: can't cd to /home/tejeshwini/AIOT/TICKStack
